@@ -1,5 +1,6 @@
 {
   "name": "hacker-news-reader",
+  "homepage": "http://ykhade.github.io/hn-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,7 +28,9 @@
     "coverage": "npm run test -- --coverage",
     "eject": "react-scripts eject",
     "lint": "./node_modules/.bin/eslint '**/*.{js,jsx}' --quiet",
-    "format": "./node_modules/.bin/prettier --write \"src/**/*.{js,jsx}\""
+    "format": "./node_modules/.bin/prettier --write \"src/**/*.{js,jsx}\"",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "eslint": "^5.11.1 ",
@@ -35,6 +38,7 @@
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-prettier": "^3.0.1",
     "eslint-plugin-react": "^7.12.0",
+    "gh-pages": "^2.0.1",
     "prettier": "^1.15.3"
   },
   "browserslist": [

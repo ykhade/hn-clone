@@ -1,12 +1,13 @@
 ## Project Overview
 
 A Hacker News clone (in night mode!) using all open source technology.
+[Live Site](https://ykhade.github.io/hn-clone/)
 
 ## Try it yourself
 
 ```sh
 # Clone the project
-git clone https://github.com/gitconnected/hacker-news-reader.git
+git clone 
 
 # Install dependencies
 npm install
