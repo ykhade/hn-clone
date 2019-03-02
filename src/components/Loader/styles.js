@@ -26,6 +26,7 @@ const blink = keyframes`
 
 export const Animation = styled.div`
   text-align: center;
+
   span {
     color: ${({ theme }) => theme.textSecondary};
     display: inline-block;
@@ -33,6 +34,7 @@ export const Animation = styled.div`
     margin-right: 4px;
     font-size: 80px;
     line-height: 0.1;
+
     /**
     * Use the blink animation, which is defined above
     */
@@ -54,6 +56,7 @@ export const Animation = styled.div`
     */
     animation-fill-mode: both;
   }
+
   span:nth-child(2) {
     animation-delay: 0.2s;
   }

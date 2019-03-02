@@ -2,12 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3ba5c55-a541-41e8-b9fd-fa298a008281" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/store/app/actions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/app/reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/middleware.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Grid/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Grid/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Grid/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Grid/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GridItem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GridItem/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GridItem/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GridItem/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/List/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/List/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/List/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/List/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ListItem/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ListItem/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ListItem/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ListItem/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Loader/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Loader/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Loader/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Loader/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav/styles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/registerServiceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/hackerNewsApi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/hackerNewsApi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/app/actions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/app/actions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/app/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/app/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/app/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/app/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/middleware/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/middleware/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/hasLocalStorage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/hasLocalStorage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/loadInitialState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/loadInitialState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/loadState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/loadState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/saveState.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/saveState.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/storageDefinitions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/storageDefinitions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/story/action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/story/reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/story/reducer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/story/selectors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/story/selectors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/globals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/mediaQueries.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/mediaQueries.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/palette.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/palette.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/getArticleLinks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/getSiteHostName.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/getSiteHostName.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,45 +68,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/reducer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/middleware.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#49#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/app/reducer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="960">
+              <caret line="75" column="22" lean-forward="true" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/App/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Grid/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/App/App.test.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Grid/Grid.test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -66,27 +116,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/app/actions.js">
+        <entry file="file://$PROJECT_DIR$/src/components/GridItem/GridItem.test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/store/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state>
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Nav/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Nav/Nav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/GridItem/index.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scroll</find>
+      <find>https://gitconnected.com/</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -96,21 +161,58 @@
       <list>
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/src/styles/palette.js" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/components/App/index.js" />
         <option value="$PROJECT_DIR$/src/styles/globals.js" />
-        <option value="$PROJECT_DIR$/src/store/index.js" />
-        <option value="$PROJECT_DIR$/src/store/reducer.js" />
         <option value="$PROJECT_DIR$/src/store/middleware.js" />
+        <option value="$PROJECT_DIR$/src/styles/mediaQueries.js" />
+        <option value="$PROJECT_DIR$/src/components/List/index.js" />
+        <option value="$PROJECT_DIR$/src/components/List/styles.js" />
+        <option value="$PROJECT_DIR$/src/components/ListItem/index.js" />
+        <option value="$PROJECT_DIR$/src/components/ListItem/styles.js" />
+        <option value="$PROJECT_DIR$/src/services/api.js" />
+        <option value="$PROJECT_DIR$/src/services/hackerNewsApi.js" />
+        <option value="$PROJECT_DIR$/src/store/app/story/action.js" />
+        <option value="$PROJECT_DIR$/src/store/app/story/reducer.js" />
+        <option value="$PROJECT_DIR$/src/store/app/story/selectors.js" />
+        <option value="$PROJECT_DIR$/src/components/App/index.js" />
+        <option value="$PROJECT_DIR$/src/components/App/styles.js" />
+        <option value="$PROJECT_DIR$/src/components/Grid/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Grid/styles.js" />
+        <option value="$PROJECT_DIR$/src/components/GridItem/index.js" />
+        <option value="$PROJECT_DIR$/src/components/GridItem/styles.js" />
+        <option value="$PROJECT_DIR$/src/components/Loader/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Loader/styles.js" />
+        <option value="$PROJECT_DIR$/src/components/Nav/styles.js" />
+        <option value="$PROJECT_DIR$/src/components/Nav/index.js" />
         <option value="$PROJECT_DIR$/src/store/app/actions.js" />
         <option value="$PROJECT_DIR$/src/store/app/reducer.js" />
+        <option value="$PROJECT_DIR$/src/store/app/utils.js" />
+        <option value="$PROJECT_DIR$/src/store/middleware/index.js" />
+        <option value="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/hasLocalStorage.js" />
+        <option value="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/index.js" />
+        <option value="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/loadInitialState.js" />
+        <option value="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/loadState.js" />
+        <option value="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/saveState" />
+        <option value="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/storageDefinitions.js" />
+        <option value="$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/saveState.js" />
+        <option value="$PROJECT_DIR$/src/store/utils/index.js" />
+        <option value="$PROJECT_DIR$/src/store/index.js" />
+        <option value="$PROJECT_DIR$/src/store/reducer.js" />
+        <option value="$PROJECT_DIR$/src/utils/getSiteHostName.js" />
+        <option value="$PROJECT_DIR$/src/utils/getArticleLinks.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/registerServiceWorker.js" />
+        <option value="$PROJECT_DIR$/src/components/App/logo.svg" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/components/App/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Nav/Nav.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
+    <option name="width" value="1554" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -148,7 +250,28 @@
               <item name="hn-clone" type="b2602c69:ProjectViewProjectNode" />
               <item name="hn-clone" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Grid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hn-clone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hn-clone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="GridItem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hn-clone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hn-clone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Nav" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hn-clone" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hn-clone" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,10 +289,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/store" />
       <recent name="$PROJECT_DIR$/src/components/App" />
       <recent name="$PROJECT_DIR$/src/services" />
     </key>
@@ -198,24 +325,27 @@
       <updated>1551317039973</updated>
       <workItem from="1551317041103" duration="1871000" />
       <workItem from="1551322300753" duration="870000" />
-      <workItem from="1551324092172" duration="8683000" />
+      <workItem from="1551324092172" duration="8825000" />
+      <workItem from="1551501193145" duration="4327000" />
+      <workItem from="1551509797503" duration="241000" />
+      <workItem from="1551510305125" duration="887000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11424000" />
+    <option name="totallyTimeSpent" value="17021000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1554" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27853882" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -257,67 +387,111 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/styles/mediaQueries.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/ListItem/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/ListItem/styles.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/Api.js" />
+    <entry file="file://$PROJECT_DIR$/src/services/hackerNewsApi.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/story/reducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/story/selectors.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Grid/styles.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/GridItem/styles.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/List/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/List/styles.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Loader/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Loader/styles.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/Nav/styles.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/app/actions.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/app/reducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/app/utils.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/middleware/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/hasLocalStorage.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/loadInitialState.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/loadState.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/saveState.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/middleware/localStorageMiddleware/storageDefinitions.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/middleware.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/reducer.js" />
+    <entry file="file://$PROJECT_DIR$/src/utils/getArticleLinks.js" />
+    <entry file="file://$PROJECT_DIR$/src/utils/getSiteHostname.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/utils/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/index.js" />
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js" />
+    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js" />
+    <entry file="file://$PROJECT_DIR$/src/store/story/actions.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/App/logo.svg" />
+    <entry file="file://$PROJECT_DIR$/src/components/App/styles.js" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/public/hacktoberfest-screenshot.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/public/hacktoberfest-react.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="472">
-            <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+          <first_editor relative-caret-position="547">
+            <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="2669" selection-start-line="2669" selection-end-line="2669" />
+        <state relative-caret-position="165">
+          <caret line="11" column="57" lean-forward="true" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/App/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="75" column="22" lean-forward="true" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/GridItem/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Grid/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state>
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/src/components/App/App.test.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App/logo.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/App/App.test.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Grid/Grid.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -326,71 +500,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/globals.js">
+    <entry file="file://$PROJECT_DIR$/src/components/GridItem/GridItem.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/styles/palette.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="2" lean-forward="true" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/reducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/middleware.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/app/actions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/app/reducer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        <state>
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Nav/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Nav/Nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
         </state>
       </provider>
     </entry>

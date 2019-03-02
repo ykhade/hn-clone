@@ -8,23 +8,23 @@ import loadInitialState from 'store/middleware/localStorageMiddleware/loadInitia
 import registerServiceWorker from './registerServiceWorker';
 
 const renderApp = () => {
-    const initialState = loadInitialState();
-    const store = configureStore(initialState);
+  const initialState = loadInitialState();
+  const store = configureStore(initialState);
 
-    if (process.env.NODE_ENV !== 'production') {
-        console.log('Initial state ->');
-        console.log(store.getState());
-    }
+  if (process.env.NODE_ENV !== 'production') {
+    console.log('Initial state ->');
+    console.log(store.getState());
+  }
 
-    ReactDOM.render(
-        <Provider store={store}>
-            <div>
-                <GlobalStyles />
-                <App />
-            </div>
-        </Provider>,
-        document.getElementById('root'),
-    );
+  ReactDOM.render(
+    <Provider store={store}>
+      <div>
+        <GlobalStyles />
+        <App />
+      </div>
+    </Provider>,
+    document.getElementById('root'),
+  );
 };
 
 renderApp();

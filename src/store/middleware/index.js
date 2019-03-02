@@ -12,12 +12,12 @@ middlewareList.push(thunk);
 middlewareList.push(localStorageMiddleware(storageDefinitions));
 
 if (!isProd) {
-    middlewareList.push(createLogger());
+  middlewareList.push(createLogger());
 }
 
 const middleware = compose(
-    applyMiddleware(...middlewareList),
-    devTool,
+  applyMiddleware(...middlewareList),
+  devTool,
 );
 
 export default middleware;

@@ -1,0 +1,12 @@
+'use strict';
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = defaultFormatter;
+function defaultFormatter(value, unit, suffix) {
+  if (value !== 1) {
+    unit += 's';
+  }
+  return value + ' ' + unit + ' ' + suffix;
+}

@@ -1,17 +1,17 @@
 export const layouts = {
-    grid: 'grid',
-    list: 'list',
+  grid: 'grid',
+  list: 'list',
 };
 
 export const themes = {
-    dark: 'dark',
-    light: 'light',
+  dark: 'dark',
+  light: 'light',
 };
 
 export const AppReducerData = {
-    initialState: {
-        theme: themes.dark,
-        layout: layouts.list,
-    },
-    payload: { theme: themes.light },
+  initialState: {
+    theme: themes.dark,
+    layout: layouts.list,
+  },
+  payload: { theme: themes.light },
 };
