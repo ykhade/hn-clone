@@ -17,3 +17,4 @@ npm run start
 
 # Navigate to http://localhost:3000
 ```
+## MIT Licensed
