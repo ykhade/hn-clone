@@ -11,6 +11,9 @@ const renderApp = () => {
   const initialState = loadInitialState();
   const store = configureStore(initialState);
 
+  //Subtle plug
+  console.log('Made with ❤️ by Yash Khade');
+
   if (process.env.NODE_ENV !== 'production') {
     console.log('Initial state ->');
     console.log(store.getState());
