@@ -1,4 +1,4 @@
-## Project Overview
+## Hacker-Redux News
 
 A Hacker News clone (with night mode!) using Rect as the framework and Redux for the state management. I used AJAX to make the API request to load the stories.
 Learning how to use Redux for the state management was difficult at first but I am able to see how powerful of a tool it is. Overall I learned a lot about 
