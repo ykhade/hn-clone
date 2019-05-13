@@ -19,6 +19,10 @@ npm run start
 
 # Navigate to http://localhost:3000
 ```
+## Built With
+* [React](https://reactjs.org/) - Front-end framework
+* [Redux](https://redux.js.org/) - State management tool for React
+* [AXIOS](https://github.com/axios/axios) - Promise based HTTP client 
 
 ## Authors
 
